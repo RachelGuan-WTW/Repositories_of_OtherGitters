@@ -1,7 +1,7 @@
 # Repositories_of_OtherGitters
 It includes useful repositories and will be updated at irregular intervals
 
-### 农业知识图谱 
+### Agriculture_KnowledgeGraph：农业知识图谱 
 [Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)
 
 一整套完整的系统：爬虫、数据库、构建知识图谱、应用demo
